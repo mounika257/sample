@@ -1,1 +1,10 @@
 name:mouni
+
+        {
+            "name": "client.feign.configs.lexvas.timeout.connection",
+            "value": "5000"
+        },
+		{
+            "name": "client.feign.configs.lexvas.timeout.connection",
+            "value": "5000"
+        }
